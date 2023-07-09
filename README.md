@@ -139,7 +139,7 @@ We are now very close to completing our roadmap! Finishing the goals, weeks, con
 This step is the most critical one. It's like all the above steps prepare the learner to this one, building large-scale projects.
 
 Each project must be:
-- Large-scaled Project, not just a simple task.
+- Larged-scale project that helps the learner to build up his/her portfolio, not just a simple task.
 - Challenging, building the porject only must add more skills & knowledge to the learner.
 - Based on Market's Needs, the project must be on-demand and related to society in which the roadmap is created.
 - Detailed, all the project details must be mentioned in a clear way to make it easier on the learner to understand the project.
